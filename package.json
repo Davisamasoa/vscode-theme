@@ -31,7 +31,8 @@
 		"publish": "vsce publish --no-yarn"
 	},
 	"repository": {
-		"url": ""
+		"url": "https://github.com/Davisamasoa/vscode-theme",
+		"type": "git"
 	},
 	"version": "1.0.0",
 	"main": "index.js",
