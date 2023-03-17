@@ -7,7 +7,8 @@
 		"theme",
 		"davisamasoa",
 		"purple",
-		"yellow"
+		"yellow",
+		"Davi Samuel"
 	],
 	"publisher": "Davisamasoa",
 	"engines": {
@@ -34,7 +35,7 @@
 		"url": "https://github.com/Davisamasoa/vscode-theme",
 		"type": "git"
 	},
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"main": "index.js",
 	"license": "MIT",
 	"devDependencies": {
