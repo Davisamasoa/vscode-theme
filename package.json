@@ -1,7 +1,7 @@
 {
 	"name": "davisamasoa-theme",
 	"description": "a elegant vscode dark theme.",
-	"displayName": "davisamasoa",
+	"displayName": "Yellow dark theme",
 	"icon": "assets/logo.png",
 	"keywords": [
 		"theme",
@@ -34,7 +34,7 @@
 		"url": "https://github.com/Davisamasoa/vscode-theme",
 		"type": "git"
 	},
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"license": "MIT",
 	"devDependencies": {
