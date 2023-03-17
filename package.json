@@ -1,0 +1,42 @@
+{
+	"name": "davisamasoa-theme",
+	"description": "a elegant vscode dark theme.",
+	"displayName": "davisamasoa",
+	"icon": "assets/logo.png",
+	"keywords": [
+		"theme",
+		"davisamasoa",
+		"purple",
+		"yellow"
+	],
+	"publisher": "Davisamasoa",
+	"engines": {
+		"vscode": "^1.45.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Yellow dark theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/davisamasoa-theme.json"
+			}
+		]
+	},
+	"activationEvents": [],
+	"scripts": {
+		"package": "vsce package --no-yarn",
+		"publish": "vsce publish --no-yarn"
+	},
+	"repository": {
+		"url": ""
+	},
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"vsce": "^2.15.0"
+	}
+}
